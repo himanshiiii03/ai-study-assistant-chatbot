@@ -2,6 +2,8 @@
 
 A full-stack AI chatbot web app that answers study questions and saves every conversation in a SQL database.
 
+![Chat screenshot](screenshots/chat.png)
+
 ## Features
 - Chat page where you ask study questions and get simple AI explanations
 - Conversation history saved in SQLite and reloaded when you refresh the page
